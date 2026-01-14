@@ -24,4 +24,18 @@ This project is a simple ReactJS application that demonstrates:
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Roopesh127/gevme-frontend-task
+   cd react-form-submission
+
+npm install
+
+npm run dev
+
+checking on your localhost
